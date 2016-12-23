@@ -1,10 +1,11 @@
-# MERN Stack Template
+# MERN Stack Todo 
 
 Includes:
 
-* MongoDB / Mongoose
+* Postgresql
 * Express
 * React
+* MobX
 * Webpack
 * Babel
 * Bootstrap
