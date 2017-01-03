@@ -13,6 +13,7 @@ import CounterState from '../store/CounterState'
   render() {
     return (
       <div className="text-center">
+        <h1>COUNTER</h1>
         Counter: {CounterState.count} <br/>
         <button onClick={this.plus}>+</button>
         <button onClick={this.minus}>-</button>
